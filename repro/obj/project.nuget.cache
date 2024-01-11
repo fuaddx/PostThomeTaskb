@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "pg6g7OXpWDLRekWnkcu5XI3bJzssBYzO7uqDGFkZ5mF98gY1qpQu9+J3Ny4wi6Xef4jaxgrgGWyHfFV4fmkSWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Birinci\\Desktop\\PostHomeTask\\repro\\repro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Birinci\\.nuget\\packages\\anglesharp\\1.0.0-alpha-844\\anglesharp.1.0.0-alpha-844.nupkg.sha512",
+    "C:\\Users\\Birinci\\.nuget\\packages\\anglesharp.css\\0.16.0\\anglesharp.css.0.16.0.nupkg.sha512",
+    "C:\\Users\\Birinci\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Birinci\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "C:\\Users\\Birinci\\.nuget\\packages\\system.text.encoding.codepages\\4.5.0\\system.text.encoding.codepages.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
